@@ -46,7 +46,7 @@ namespace EOICSS
                     cssCPPanNo.Value = strcpids;
                     Session["CpPanNo"] = strcpids;
 
-
+                    string strtest = "Test demo";
 
                     string strquery = "exec [dbSSProcedures].[SP_Insert_Transaction_LogData] 'New','" + strcpids + "','Index Page','OnLoading','Loaded'";
 
