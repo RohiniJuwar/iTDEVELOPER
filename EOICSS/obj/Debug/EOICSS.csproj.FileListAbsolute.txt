@@ -1,0 +1,816 @@
+E:\work\EOI\V1\EOICSS\EOICSS\bin\EOICSS.dll.config
+E:\work\EOI\V1\EOICSS\EOICSS\bin\EOICSS.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\EOICSS.pdb
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\csc.exe
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\csc.exe.config
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\csc.rsp
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\csi.exe
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\csi.exe.config
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\csi.rsp
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\Microsoft.Managed.Core.targets
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.AppContext.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.Collections.Immutable.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.Console.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.Globalization.Calendars.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.Net.Http.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.Net.Sockets.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.Reflection.Metadata.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.ValueTuple.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.Xml.XmlDocument.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\vbc.exe
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\vbc.exe.config
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\vbc.rsp
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe
+E:\work\EOI\V1\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe.config
+E:\work\EOI\V1\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\work\EOI\V1\EOICSS\EOICSS\obj\Debug\EOICSS.csprojAssemblyReference.cache
+E:\work\EOI\V1\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CoreCompileInputs.cache
+E:\work\EOI\V1\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CopyComplete
+E:\work\EOI\V1\EOICSS\EOICSS\obj\Debug\EOICSS.dll
+E:\work\EOI\V1\EOICSS\EOICSS\obj\Debug\EOICSS.pdb
+E:\work\EOI\V1\EOICSS\EOICSS\bin\Newtonsoft.Json.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\Razorpay.dll
+E:\work\EOI\V1\EOICSS\EOICSS\bin\Newtonsoft.Json.xml
+E:\work\EOI\V2\EOICSS\EOICSS\bin\EOICSS.dll.config
+E:\work\EOI\V2\EOICSS\EOICSS\bin\EOICSS.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\EOICSS.pdb
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\csc.exe
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\csc.exe.config
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\csc.rsp
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\csi.exe
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\csi.exe.config
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\csi.rsp
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\Microsoft.Managed.Core.targets
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.AppContext.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.Collections.Immutable.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.Console.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.Globalization.Calendars.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.Net.Http.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.Net.Sockets.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.Reflection.Metadata.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.ValueTuple.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.Xml.XmlDocument.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\vbc.exe
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\vbc.exe.config
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\vbc.rsp
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe
+E:\work\EOI\V2\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe.config
+E:\work\EOI\V2\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\Newtonsoft.Json.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\Razorpay.dll
+E:\work\EOI\V2\EOICSS\EOICSS\bin\Newtonsoft.Json.xml
+E:\work\EOI\V2\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\work\EOI\V2\EOICSS\EOICSS\obj\Debug\EOICSS.csprojAssemblyReference.cache
+E:\work\EOI\V2\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CoreCompileInputs.cache
+E:\work\EOI\V2\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CopyComplete
+E:\work\EOI\V2\EOICSS\EOICSS\obj\Debug\EOICSS.dll
+E:\work\EOI\V2\EOICSS\EOICSS\obj\Debug\EOICSS.pdb
+E:\work\EOI\V2\EOICSS\EOICSS\bin\RestSharp.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\EOICSS.dll.config
+E:\work\EOI\V3\EOICSS\EOICSS\bin\EOICSS.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\EOICSS.pdb
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\csc.exe
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\csc.exe.config
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\csc.rsp
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\csi.exe
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\csi.exe.config
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\csi.rsp
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\Microsoft.Managed.Core.targets
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.AppContext.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.Collections.Immutable.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.Console.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.Globalization.Calendars.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.Net.Http.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.Net.Sockets.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.Reflection.Metadata.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.ValueTuple.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.Xml.XmlDocument.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\vbc.exe
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\vbc.exe.config
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\vbc.rsp
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe
+E:\work\EOI\V3\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe.config
+E:\work\EOI\V3\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\Newtonsoft.Json.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\Razorpay.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\RestSharp.dll
+E:\work\EOI\V3\EOICSS\EOICSS\bin\Newtonsoft.Json.xml
+E:\work\EOI\V3\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\work\EOI\V3\EOICSS\EOICSS\obj\Debug\EOICSS.csprojAssemblyReference.cache
+E:\work\EOI\V3\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CoreCompileInputs.cache
+E:\work\EOI\V3\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CopyComplete
+E:\work\EOI\V3\EOICSS\EOICSS\obj\Debug\EOICSS.dll
+E:\work\EOI\V3\EOICSS\EOICSS\obj\Debug\EOICSS.pdb
+E:\work\EOI\V4\EOICSS\EOICSS\bin\EOICSS.dll.config
+E:\work\EOI\V4\EOICSS\EOICSS\bin\EOICSS.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\EOICSS.pdb
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\csc.exe
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\csc.exe.config
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\csc.rsp
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\csi.exe
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\csi.exe.config
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\csi.rsp
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\Microsoft.Managed.Core.targets
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.AppContext.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.Collections.Immutable.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.Console.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.Globalization.Calendars.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.Net.Http.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.Net.Sockets.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.Reflection.Metadata.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.ValueTuple.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.Xml.XmlDocument.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\vbc.exe
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\vbc.exe.config
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\vbc.rsp
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe
+E:\work\EOI\V4\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe.config
+E:\work\EOI\V4\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\Newtonsoft.Json.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\Razorpay.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\RestSharp.dll
+E:\work\EOI\V4\EOICSS\EOICSS\bin\Newtonsoft.Json.xml
+E:\work\EOI\V4\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\work\EOI\V4\EOICSS\EOICSS\obj\Debug\EOICSS.csprojAssemblyReference.cache
+E:\work\EOI\V4\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CoreCompileInputs.cache
+E:\work\EOI\V4\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CopyComplete
+E:\work\EOI\V4\EOICSS\EOICSS\obj\Debug\EOICSS.dll
+E:\work\EOI\V4\EOICSS\EOICSS\obj\Debug\EOICSS.pdb
+E:\work\EOI\V5\EOICSS\EOICSS\bin\EOICSS.dll.config
+E:\work\EOI\V5\EOICSS\EOICSS\bin\EOICSS.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\EOICSS.pdb
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\csc.exe
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\csc.exe.config
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\csc.rsp
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\csi.exe
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\csi.exe.config
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\csi.rsp
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\Microsoft.Managed.Core.targets
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.AppContext.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.Collections.Immutable.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.Console.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.Globalization.Calendars.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.Net.Http.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.Net.Sockets.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.Reflection.Metadata.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.ValueTuple.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.Xml.XmlDocument.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\vbc.exe
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\vbc.exe.config
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\vbc.rsp
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe
+E:\work\EOI\V5\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe.config
+E:\work\EOI\V5\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\Newtonsoft.Json.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\Razorpay.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\RestSharp.dll
+E:\work\EOI\V5\EOICSS\EOICSS\bin\Newtonsoft.Json.xml
+E:\work\EOI\V5\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\work\EOI\V5\EOICSS\EOICSS\obj\Debug\EOICSS.csprojAssemblyReference.cache
+E:\work\EOI\V5\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CoreCompileInputs.cache
+E:\work\EOI\V5\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CopyComplete
+E:\work\EOI\V5\EOICSS\EOICSS\obj\Debug\EOICSS.dll
+E:\work\EOI\V5\EOICSS\EOICSS\obj\Debug\EOICSS.pdb
+E:\work\EOI\V6\EOICSS\EOICSS\bin\EOICSS.dll.config
+E:\work\EOI\V6\EOICSS\EOICSS\bin\EOICSS.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\EOICSS.pdb
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\csc.exe
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\csc.exe.config
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\csc.rsp
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\csi.exe
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\csi.exe.config
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\csi.rsp
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\Microsoft.Managed.Core.targets
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.AppContext.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.Collections.Immutable.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.Console.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.Globalization.Calendars.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.Net.Http.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.Net.Sockets.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.Reflection.Metadata.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.ValueTuple.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.Xml.XmlDocument.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\vbc.exe
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\vbc.exe.config
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\vbc.rsp
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe
+E:\work\EOI\V6\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe.config
+E:\work\EOI\V6\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\Newtonsoft.Json.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\Razorpay.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\RestSharp.dll
+E:\work\EOI\V6\EOICSS\EOICSS\bin\Newtonsoft.Json.xml
+E:\work\EOI\V6\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\work\EOI\V6\EOICSS\EOICSS\obj\Debug\EOICSS.csprojAssemblyReference.cache
+E:\work\EOI\V6\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CoreCompileInputs.cache
+E:\work\EOI\V6\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CopyComplete
+E:\work\EOI\V6\EOICSS\EOICSS\obj\Debug\EOICSS.dll
+E:\work\EOI\V6\EOICSS\EOICSS\obj\Debug\EOICSS.pdb
+E:\work\EOI\V10\EOICSS\EOICSS\bin\EOICSS.dll.config
+E:\work\EOI\V10\EOICSS\EOICSS\bin\EOICSS.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\EOICSS.pdb
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\csc.exe
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\csc.exe.config
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\csc.rsp
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\csi.exe
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\csi.exe.config
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\csi.rsp
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.Managed.Core.targets
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.AppContext.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.Collections.Immutable.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.Console.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.Globalization.Calendars.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.Net.Http.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.Net.Sockets.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.Reflection.Metadata.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.ValueTuple.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.Xml.XmlDocument.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\vbc.exe
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\vbc.exe.config
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\vbc.rsp
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe
+E:\work\EOI\V10\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe.config
+E:\work\EOI\V10\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\Newtonsoft.Json.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\Razorpay.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\RestSharp.dll
+E:\work\EOI\V10\EOICSS\EOICSS\bin\Newtonsoft.Json.xml
+E:\work\EOI\V10\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\work\EOI\V10\EOICSS\EOICSS\obj\Debug\EOICSS.csprojAssemblyReference.cache
+E:\work\EOI\V10\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CoreCompileInputs.cache
+E:\work\EOI\V10\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CopyComplete
+E:\work\EOI\V10\EOICSS\EOICSS\obj\Debug\EOICSS.dll
+E:\work\EOI\V10\EOICSS\EOICSS\obj\Debug\EOICSS.pdb
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\EOICSS.dll.config
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\EOICSS.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\EOICSS.pdb
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\csc.exe
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\csc.exe.config
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\csc.rsp
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\csi.exe
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\csi.exe.config
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\csi.rsp
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.AppContext.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.Console.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.Net.Http.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\vbc.exe
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\vbc.exe.config
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\vbc.rsp
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\Newtonsoft.Json.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\Razorpay.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\Newtonsoft.Json.xml
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.AssemblyReference.cache
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CoreCompileInputs.cache
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CopyComplete
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\obj\Debug\EOICSS.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V10\EOICSS\EOICSS\obj\Debug\EOICSS.pdb
+E:\work\EOI\V11\EOICSS\EOICSS\bin\EOICSS.dll.config
+E:\work\EOI\V11\EOICSS\EOICSS\bin\EOICSS.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\EOICSS.pdb
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\csc.exe
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\csc.exe.config
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\csc.rsp
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\csi.exe
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\csi.exe.config
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\csi.rsp
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\Microsoft.Managed.Core.targets
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.AppContext.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.Collections.Immutable.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.Console.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.Globalization.Calendars.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.Net.Http.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.Net.Sockets.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.Reflection.Metadata.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.ValueTuple.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.Xml.XmlDocument.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\vbc.exe
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\vbc.exe.config
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\vbc.rsp
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe
+E:\work\EOI\V11\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe.config
+E:\work\EOI\V11\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\Newtonsoft.Json.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\Razorpay.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\RestSharp.dll
+E:\work\EOI\V11\EOICSS\EOICSS\bin\Newtonsoft.Json.xml
+E:\work\EOI\V11\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\work\EOI\V11\EOICSS\EOICSS\obj\Debug\EOICSS.csprojAssemblyReference.cache
+E:\work\EOI\V11\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CoreCompileInputs.cache
+E:\work\EOI\V11\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CopyComplete
+E:\work\EOI\V11\EOICSS\EOICSS\obj\Debug\EOICSS.dll
+E:\work\EOI\V11\EOICSS\EOICSS\obj\Debug\EOICSS.pdb
+E:\work\EOI\V14\EOICSS\EOICSS\bin\EOICSS.dll.config
+E:\work\EOI\V14\EOICSS\EOICSS\bin\EOICSS.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\EOICSS.pdb
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\csc.exe
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\csc.exe.config
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\csc.rsp
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\csi.exe
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\csi.exe.config
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\csi.rsp
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\Microsoft.Managed.Core.targets
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.AppContext.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.Collections.Immutable.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.Console.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.Globalization.Calendars.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.Net.Http.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.Net.Sockets.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.Reflection.Metadata.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.ValueTuple.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.Xml.XmlDocument.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\vbc.exe
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\vbc.exe.config
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\vbc.rsp
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe
+E:\work\EOI\V14\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe.config
+E:\work\EOI\V14\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\Newtonsoft.Json.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\Razorpay.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\RestSharp.dll
+E:\work\EOI\V14\EOICSS\EOICSS\bin\Newtonsoft.Json.xml
+E:\work\EOI\V14\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\work\EOI\V14\EOICSS\EOICSS\obj\Debug\EOICSS.csprojAssemblyReference.cache
+E:\work\EOI\V14\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CoreCompileInputs.cache
+E:\work\EOI\V14\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CopyComplete
+E:\work\EOI\V14\EOICSS\EOICSS\obj\Debug\EOICSS.dll
+E:\work\EOI\V14\EOICSS\EOICSS\obj\Debug\EOICSS.pdb
+E:\work\EOI\V16\EOICSS\EOICSS\bin\EOICSS.dll.config
+E:\work\EOI\V16\EOICSS\EOICSS\bin\EOICSS.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\EOICSS.pdb
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\csc.exe
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\csc.exe.config
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\csc.rsp
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\csi.exe
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\csi.exe.config
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\csi.rsp
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.Managed.Core.targets
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.AppContext.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.Collections.Immutable.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.Console.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.Globalization.Calendars.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.Net.Http.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.Net.Sockets.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.Reflection.Metadata.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.ValueTuple.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.Xml.XmlDocument.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\vbc.exe
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\vbc.exe.config
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\vbc.rsp
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe
+E:\work\EOI\V16\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe.config
+E:\work\EOI\V16\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\Newtonsoft.Json.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\Razorpay.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\RestSharp.dll
+E:\work\EOI\V16\EOICSS\EOICSS\bin\Newtonsoft.Json.xml
+E:\work\EOI\V16\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\work\EOI\V16\EOICSS\EOICSS\obj\Debug\EOICSS.csprojAssemblyReference.cache
+E:\work\EOI\V16\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CoreCompileInputs.cache
+E:\work\EOI\V16\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CopyComplete
+E:\work\EOI\V16\EOICSS\EOICSS\obj\Debug\EOICSS.dll
+E:\work\EOI\V16\EOICSS\EOICSS\obj\Debug\EOICSS.pdb
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\EOICSS.dll.config
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\EOICSS.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\EOICSS.pdb
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\csc.exe
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\csc.exe.config
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\csc.rsp
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\csi.exe
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\csi.exe.config
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\csi.rsp
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.AppContext.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.Console.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.Net.Http.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\vbc.exe
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\vbc.exe.config
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\vbc.rsp
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\Newtonsoft.Json.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\Razorpay.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\Newtonsoft.Json.xml
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.AssemblyReference.cache
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CoreCompileInputs.cache
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CopyComplete
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\obj\Debug\EOICSS.dll
+C:\Users\Kanchan Hajare\Desktop\all project\Eol\V16\EOICSS\EOICSS\obj\Debug\EOICSS.pdb
+E:\work\EOI\v17\EOICSS\EOICSS\bin\EOICSS.dll.config
+E:\work\EOI\v17\EOICSS\EOICSS\bin\EOICSS.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\EOICSS.pdb
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\csc.exe
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\csc.exe.config
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\csc.rsp
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\csi.exe
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\csi.exe.config
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\csi.rsp
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\Microsoft.Managed.Core.targets
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.AppContext.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.Collections.Immutable.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.Console.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.Globalization.Calendars.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.Net.Http.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.Net.Sockets.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.Reflection.Metadata.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.ValueTuple.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.Xml.XmlDocument.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\vbc.exe
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\vbc.exe.config
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\vbc.rsp
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe
+E:\work\EOI\v17\EOICSS\EOICSS\bin\roslyn\VBCSCompiler.exe.config
+E:\work\EOI\v17\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\Newtonsoft.Json.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\Razorpay.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\RestSharp.dll
+E:\work\EOI\v17\EOICSS\EOICSS\bin\Newtonsoft.Json.xml
+E:\work\EOI\v17\EOICSS\EOICSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\work\EOI\v17\EOICSS\EOICSS\obj\Debug\EOICSS.csprojAssemblyReference.cache
+E:\work\EOI\v17\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CoreCompileInputs.cache
+E:\work\EOI\v17\EOICSS\EOICSS\obj\Debug\EOICSS.csproj.CopyComplete
+E:\work\EOI\v17\EOICSS\EOICSS\obj\Debug\EOICSS.dll
+E:\work\EOI\v17\EOICSS\EOICSS\obj\Debug\EOICSS.pdb

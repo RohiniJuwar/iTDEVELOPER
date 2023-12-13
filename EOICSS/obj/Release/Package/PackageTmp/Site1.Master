@@ -1,0 +1,578 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="EOICSS.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name=description content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EOI</title>
+    <link rel="icon" href="img/logo.png" type="image/png" />
+    <link rel="shortcut icon" href="img/logo.png" />
+    <!---min css-->
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+ <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.18/css/bootstrap-select.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js" ></script>  
+    <link rel="stylesheet" href="css/style.css">
+    <!-------------3BHK and @  2BHK-->
+
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+
+
+    <style>
+  /*  #iframe_main {
+            height: 500px;
+            width: 100%;
+        }*/
+
+.bgWhite{
+  background:white;
+  box-shadow:0px 3px 6px 0px #cacaca;
+}
+
+.title{
+  font-weight:600;
+  margin-top:20px;
+  font-size:24px
+}
+
+.customBtn{
+  border-radius:0px;
+  padding:10px;
+}
+
+.form2 input{
+  display:inline-block;
+  width:50px;
+  height:50px;
+  text-align:center;
+}
+    </style>
+
+<%--<!-- Google Tag Manager -->
+<script>
+    setTimeout(function () {
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-TR2TZG9');
+    }, 500);  
+</script>
+<!-- End Google Tag Manager -->--%>
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+    <%--style="background-image: url(https://misboard.rohanbuilders.com/assets/dist/img/body-bg.jpg);
+    background-size: cover;
+    background-position: top center;"--%>
+
+<body>
+ <%--   <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TR2TZG9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->--%>
+
+   <%-- <form id="form1" runat="server">--%>
+         
+    <!--nav-->
+   <!-- <nav class="navbar navbar-expand-lg bg-white fixed-top border-bottom ">
+        <div class="container">
+            <a class="col navbar-brand " href="/">
+                <span>EOI</span>
+            </a>
+            <button class="navbar-toggler ms-auto" id="click_advance" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class=""> <i class="fa-solid fa-bars"></i></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <%--<ul class="navbar-nav ms-auto  mb-lg-0 ">
+                    <li class="nav-item ">
+                        <a class="nav-link active d-block " aria-current="page" href="index.html">HOME</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#living">LIFE AT ROHAN VITI</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#layout">LAYOUT</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#price">PRICING</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#location">ABOUT WAKAD</a>
+                    </li>
+                     <li class="nav-item" style="cursor:pointer;">
+                        <a class="nav-link" data-bs-toggle="modal" data-bs-target="#staticEnquiryForm">ENQUIRE NOW</a>
+                    </li>
+                </ul>--%>
+            </div>
+        </div>
+    </nav>-->
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+           <!----footer-->
+    <footer>
+        <div class="container ">
+            <hr>
+            <div class="row">
+                <div class="col-md-9">
+
+
+                    <table class="table table-borderless">
+                        <tbody>
+                            <tr>
+                                <td scope="row"><span class="text-muted "><i class="fa-solid  fa-location-dot text-info "></i></span></td>
+                                <td>  <span class="text-muted "><span class=" text-muted ">Rohan Antara, Survey No. 129/1, 129/4, 129/6 And 130/3,
+Gunjur Village, Bengaluru East, Bengaluru Urban, Karnataka - 560087</span></span></td>
+
+                            </tr>
+                            <tr>
+                                <td scope="row"><span class="ms-auto text-muted"><i class="fa-solid fa-envelope text-white "></i></span></td>
+                                <td><a href="mailto:antara@rohanbuilders.com" class="ms-auto text-muted">antara@rohanbuilders.com</a></td>
+
+                            </tr>
+                        </tbody>
+                    </table>
+
+
+
+
+
+
+                </div>
+                <%--<div class="col-md-3">
+                    <span class="text-muted">Contact Us</span><br>
+                    <a class="clsreq-2BHK btn btn-primary my-3" data-bs-toggle="modal" data-bs-target="#staticBackdrop" href="#" role="button">Request a call back</a>
+
+
+                </div>--%>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <h4 style="color:white;font-size:16px;">Disclaimer - </h4>
+                    <p style="font-size:66%;text-align:justify;line-height: 16px;margin-bottom: 0px;color:#aaa;margin-top: 0;">
+                        By using or accessing the Website, you agree with the Disclaimer without any qualification or limitation....<span id="sp1" style="cursor:pointer;color:aliceblue;font-size:12px;">Read More</span>
+                    </p><div id="dv1">
+                        <p style="font-size:66%;text-align:justify;line-height: 16px;color:#aaa;margin-top: 0;">
+                            The Company reserves the right to terminate, revoke, modify, alter, add and delete any one or more of the terms and conditions of the website.
+                            The visuals and information contained herein are purely indicative and informational purpose only and may differ from the actuals. The imagery used on the website may not represent actuals or may be indicative of style only Photographs of interiors, surrounding views and location may not represent actuals or may have been digitally enhanced or altered.
+                            In no event will Rohan Builders (India) Pvt. Ltd and its group companies and its entities (for the sake of brevity referred to as "Rohan Builders") be liable for any loss or damages arising from the use of or reliance on information provided on this website. The use of any information or material on this website is entirely at the visitor’s own risk.The information on this website does not constitute a legal offer and/or contract of any such type between us/the promoter and the visitor.
+                            A visitor, by the act of submitting information through the website or email will be considered to warrant that he/she has provided true, accurate, current and complete information. By entering a mobile number, a visitor is considered to have consented to Rohan Builders, to send alerts, promotional SMS and the permission to be contacted.
+                            The designs, plans, specifications, facilities, images, features, etc. shown on this website are only indicative and subject to the approval of the respective authorities. We/the promoter reserve the right to change these without any notice or objections. Rohan Builders or any of its employees, managers or representatives shall not be responsible for any damage or economic loss arising out of or related to the use of the website.
+                            The company reserves the right to change, alter, add or delete any of the specifications mentioned herein without prior permission or notice subject however to the applicable law
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-9">
+                    <p class="ms-auto"><small class="text-muted ">Copyright &copy; Rohan Builders . All Rights Reserved. </small></p>
+                </div>
+                <div class="col-md-3">
+                    <p class="ms-auto"><small class="text-muted ">*T&C Apply</small></p>
+                </div>
+            </div>
+        </div>
+    </footer>
+   <%-- </form>--%>
+     
+
+    <div class="modal model1 fade" id="statictermNcondition" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered">
+          <div class="modal-content" style="max-height:600px;overflow-y:auto;">
+              <div class="modal-header w-100 px-5 ">
+                  <h4 class="fw-bolder  fs-4 py-3">
+                      TERMS & CONDITIONS:
+                  </h4>
+                  <%--<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>--%>
+              </div>
+              <div class="modal-body pt-0" id="cptnc" style="display:none;">
+                  <div class="register1 p-3 ">
+                      <div class="row " >
+                          <div class="col-md-12">
+                             <%-- <iframe id="iframe_main" src='/tnc/tnc.pdf'  style="overflow:hidden;height:100%;width:100%" frameborder='0' height="100%" width="100%"></iframe>--%>
+                              <p><strong style="font-size:12px;"> Note: Tokens will be valid only after receiving the cheques by Rohan Builders.</strong></p>
+                            <p> 1.	The indicated price range is approximate and subject to change at the sole discretion of Rohan Builders.
+</p><p>2.	Once a particular apartment/unit is blocked, requests for apartment/unit change will be considered based on apartment/unit availability.
+</p><p>3.	The offers/discounts, if any, for token holders are invalid after the allotment day.
+</p><p>4.	An applicant can register for only one apartment/unit per form.
+</p><p>5.	All tokens are valid up to allotment day. 
+</p><p>6.	Rohan Builders reserves the right to cancel the allotment if the amounts are not paid according to the terms of booking and/or if the amount paid by cheque is dishonoured due to non-availability of funds or for any other reason, and/or if information required to be provided at the time of booking is withheld or incorrect.
+</p><p>7.	Rohan Builders may, at its sole discretion and without assigning any reason, return the Expression of Interest (EOI) along with the cheque(s)/amount paid. The Company reserves the right to withdraw/reschedule the launch of the Project and, as a result, withdraw/defer/cancel allotment of apartment/unit by returning the paid cheque/amount without interest.
+</p><p>8.	In the event of cancellation of an application, Rohan Builders shall refund the EOI Token Deposit without any interest to the applicant within 15 days of being notified of the cancellation and re-allot and re-sell the apartment/unit on such terms and conditions as Rohan Builders deems fit.
+</p><p>9.	This application is non-transferable and non-assignable under any circumstances.
+</p><p>10.	Rohan Builders reserves all rights/discretion to alter any policy without any prior notice. The decision of Rohan Builders shall be final in case of any dispute.
+</p><p>11.	All disputes arising from this EOI shall be subject to the exclusive jurisdiction of Bengaluru's Courts.
+</p><p>12.	The offer is subject to force majeure conditions. </p>
+
+                              <p style="text-align:center;font-size:12px;"><strong>ACKNOWLEDGEMENT:</strong></p>
+                             <p> 1.	Rohan Builders is developing the Project ‘Rohan Antara’, herein after referred to as ‘the said Project’. The said Project has been registered with Karnataka RERA, registration number:  <br />
+<b>Phase 1 - PRM/KA/RERA/1251/446/PR/200423/005890<br />
+</b><b>Phase 2 - PRM/KA/RERA/1251/446/PR/200423/005887<br />
+</b><b>Phase 3 - PRM/KA/RERA/1251/446/PR/130723/006064</b>
+</p><p>2.	I confirm that I have read all the details of the said Project on the RERA website (https://rera.karnataka.gov.in) and have understood all the uploaded documents/information in relation to the said Project.
+</p><p>3.	I understand that this is an Expression of Interest (EOI) sought by Rohan Builders and it is not a confirmed booking of the apartment/unit. 
+</p><p>4.	I understand that this EOI is subject to the terms and conditions mentioned above and my submission and acceptance of this EOI does not get construed as a confirmation of allotment in my favour. The acceptance and/or rejection of this EOI is at the sole and absolute discretion of Rohan Builders.
+</p><p>5.	I hereby submit my EOI for allotment of the preferred apartment/unit indicated in the said Project as and when Rohan Builders commences the process of allotment in the normal course of business. I do understand that the selection and allotment of apartment/unit is subject to availability and final confirmation from Rohan Builders, and allocation of such apartment/unit will be at the sole discretion of Rohan Builders.
+</p><p>6.	I understand that an amount equivalent to 10% of the agreement value + GST + additional govt. charges towards e-stamp paper on agreement value or any other amount as specified by Rohan Builders, whichever is lower, is immediately payable on the allotment day, failing which, Rohan Builders reserves the right to cancel the EOI and refund the initial deposit (details mentioned above) without interest and re-allot and re-sell the apartment/unit to any other person and on such terms and conditions as Rohan Builders deems fit.
+</p><p>7.	I have read and understood the terms of this application before submitting the interest for booking an apartment/unit in the said Project and by signing this application, I agree to be bound to all the terms and conditions hereof. I also agree, acknowledge, accept and confirm all facts, disclosures, terms and conditions set out herein.</p>
+<br />
+                              <button type=button id=btn_termnCond class="btn btn-primary btn-lg btn-block " data-bs-dismiss="modal">I Agree</button> <%--aria-label="Close"--%> 
+                          </div>
+                      </div>
+
+                  </div>
+              </div>
+              <div class="modal-body pt-0" id="rfrltnc"  style="display:none;">
+                  <div class="register1 p-3 ">
+                      <div class="row " >
+                          <div class="col-md-12">
+                            <p> a) Referral code to be shared at the time of first visit/enquiry at site.
+</p><p> b) Referral won’t be applicable if prior visit is done earlier through other source.
+</p><p> c) Referral benefit will be pass on as, referee will get 15% of basic value and referrer will get 0.5% of basic value.
+</p><p> d) Referral benefit becomes applicable only after the customer pays all the due as per stage of construction and complete the agreement and registration formalities with Rohan Builders.
+</p><p> e) Management reserve the right of passing the referral benefit
+</p><p> f) In case of dispute the benefit remains void.
+</p><p> g) In case of cancellation or termination of the agreement, the refund can only be made to the customer by deducting the referral benefit amount.
+</p><p> h) TDS will be deducted at actual.
+    </p>
+                          </div>
+                      </div>
+
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+
+
+
+    <div class="modal fade" id="staticEnquiryForm" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content w-50 m-auto">
+                <div class="modal-header w-100 px-5  ">
+                    <h5 class="fw-bolder  fs-4 py-3" id="staticBackdropLabel">
+                        Enquire Now
+                    </h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body pt-0">
+				
+				   <div class=register>
+                  <form role= form id=frm_popup>
+                      <div class=" border-bottom-1">
+                          <input class="form-control txt"name=popup-name id=popup-name data-validation=length data-validation-length=3-20   data-validation-regexp="[A-Za-z]" required placeholder=" Name">
+                      </div>
+                      <div class=" border-bottom-1">
+                          <input class="form-control txt"name=popup-email id=popup-email data-validation=email  required placeholder="Your e-mail">
+                      </div>
+                      <div class=" border-bottom-1">
+                          <input class="form-control txt" name=popup-phone onkeypress="return isNumberKey(event)" id=popup-phone  inputmode=numeric autocomplete=off data-validation=length data-validation-length=10-11  required placeholder="Phone Number" />
+                      </div>
+                      <div class=border-bottom-1>
+                          <select class="form-select  txt-select py-3" id=cmb_typeofapartment_popup  name=type_of_apartments_popup required>
+                              <option disabled value="..">Choose....</option>
+                              <option value="2BHK">2BHK</option>
+                              <option value="3BHK">3BHK</option>
+                             
+                          </select>
+                      </div>
+
+                      <div id="recaptcha" class="g-recaptcha my-2" data-sitekey="6LevBLcUAAAAAGdtEQQy0OvyOKeGTppZxKyPYz6y"></div>
+
+                      <div class="form-group ">
+                          <input id=chk_accept_popup type=checkbox style="display:none;" checked class=form-group name=accept value=accept required /><span> By submitting the details, you permit us to communicate with you.</span>
+                      </div>
+                      <div class=form-group>
+                          <button type=button id=btn_submit_popup class="btn btn-primary btn-lg btn-block">Submit</button>
+                          <img src="/img/loading.gif" class=imgloading style="display:none;" />
+                      </div>
+                      <div class=form-group>
+                          <p style="font-size:9px;margin-bottom: 0px;line-height: 12px" class="my-2">*Your details are safe with us. We'd make no excuse to share them with anyone.</p>
+                      </div>
+                      <input type='hidden' id="zc_gad" name="zc_gad" value="" />
+					  <input type='hidden' id="isdownload" name="isdownload" value="N" />
+                  </form>
+              </div>
+			  
+			  
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+ 
+  
+    <!---custom js-->
+  <script src="/js/script.js"></script>
+
+  <!--minjs-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.14.0-beta2/js/bootstrap-select.min.js" ></script> 
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#btn_submit_popup").click(function (e) {
+                alert("Check");
+                $('#recaptcha').css("border", "");
+                var $captcha = $('#recaptcha'),
+                    response = 1;//grecaptcha.getResponse();
+                if (response.length === 0) {
+                    $('#recaptcha').css("border", "1px solid red");
+                    return false;
+                } else {
+
+                    var varname = $('#popup-name').val().trim();
+                    var varemail = $('#popup-email').val().trim();
+                    var varphone = $('#popup-phone').val().trim();
+                    var varapartment = $('#cmb_typeofapartment_popup').val();
+                    var msg = "y";
+                    $('#popup-name, #popup-email, #popup-phone').css("border-bottom", "");
+                    $('#popup-phone').removeClass("blink");
+                    if (varname == '' && varemail == '' && varphone == '') {
+                        msg = "n";
+                        //alert("Enter All Details");
+                        //return false;
+                        $('#popup-name, #popup-email, #popup-phone').css("border-bottom", "1px solid red");
+                    }
+                    else {
+                        if (varname == '') {
+                            $('#popup-name').css("border-bottom", "1px solid red");
+                            msg = "n";
+                        }
+                        else {
+                            if (validateName(varname)) {
+
+                            }
+                            else {
+                                $('#popup-name').css("border-bottom", "1px solid red");
+                                msg = "n";
+                            }
+                        }
+                        if (varemail == '') {
+                            $('#popup-email').css("border-bottom", "1px solid red");
+                            msg = "n";
+                        }
+                        else {
+                            if (validateEmail($('#popup-email').val())) {
+                            }
+                            else {
+                                $('#popup-email').css("border-bottom", "1px solid red");
+                                msg = "n";
+                            }
+                        }
+                        if (varphone == '') {
+                            $('#popup-phone').css("border-bottom", "1px solid red");
+                            msg = "n";
+                        }
+                        else {
+                            if (varphone.length == 10) {
+                                var sd = varphone.replace(/[^0-9]/gi, '');
+                                var number = parseInt(sd, 10);
+                                var vd = number.toString();
+                                if (vd.length == 10) {
+
+                                }
+                                else {
+                                    blink("#popup-phone", 6, 200);
+                                    msg = "n";
+                                }
+                            }
+                            else {
+                                blink("#popup-phone", 6, 200);
+                                msg = "n";
+                            }
+                        }
+                    }
+
+                    if (msg == 'y') {
+                        var vrsource = "SEM";
+                        var vrsourcedetails = "GoogleAds";
+                       
+                        $("#btn_submit_popup").css({ "pointer-events": "none" });
+                        var keyword = getParameterByName('utm_keyword');
+                        var matchtype = getParameterByName('matchtype');
+                        var creative = getParameterByName('creative');
+                        var placement = getParameterByName('utm_placement');
+                        var model = getParameterByName('utm_model');
+                        var utm_campaign = getParameterByName('utm_campaign').replace("_", "-");
+                        var campaigntype = getParameterByName('utm_campaigntype');
+                        var utm_source = getParameterByName('utm_source');
+                        var utm_medium = getParameterByName('utm_medium');
+                        var utm_adgroup = getParameterByName('utm_adgroup');
+                        var mobiled = getParameterByName('utm_mobile');
+                        var gclid = getParameterByName('gclid');
+                        var source = getParameterByName('source');
+                        var sourcedetails = getParameterByName('sourcedetails');
+                        var campaign = getParameterByName('utm_campaign').replace("_", "-");
+                        var adgroup = getParameterByName('utm_adgroup').replace("_", "-");
+                        var device = getParameterByName('utm_device').replace("_", "-");
+
+                        // var vrsource = localStorage.getItem("source");
+                        // var vrsourcedetails = localStorage.getItem("sourcedetails");
+
+
+
+                        alert("keyword: " + keyword + ",matchtype: " + matchtype + ",creative: " + creative + ",placement: " + placement + ",model: " + model + ",utm_campaign: " + utm_campaign + ",campaigntype: " + campaigntype + ",utm_source: " + utm_source + ",utm_medium: " + utm_medium + ",utm_adgroup: " + utm_adgroup + ",mobiled: " + mobiled + ",gclid: " + gclid + ",source: " + source + ",sourcedetails: " + sourcedetails + ",campaign: " + campaign + ",adgroup: " + adgroup + ",device: " + device);
+
+
+                        return false;
+                        var site = "Rohan Nidita";
+                        var utype = "U";
+                        if (keyword == '') {
+                            keyword = "-"
+                        }
+                        if (matchtype == '') {
+                            matchtype = "-"
+                        }
+                        if (creative == '') {
+                            creative = "-"
+                        }
+                        if (placement == '') {
+                            placement = "-"
+                        }
+                        if (model == '') {
+                            model = "-"
+                        }
+                        if (campaigntype == '') {
+                            campaigntype = "-"
+                        }
+                        if (utm_source == '') {
+                            utm_source = "-"
+                        }
+                        if (utm_medium == '') {
+                            utm_medium = "-"
+                        }
+                        if (gclid == '') {
+                            gclid = "-"
+                        }
+                        if (campaign == '') {
+                            campaign = "-"
+                        }
+                        if (campaign == '') {
+                            campaign = "-"
+                        }
+                        if (adgroup == '') {
+                            adgroup = "-"
+                        }
+                        if (device == '') {
+                            device = "-"
+                        }
+                        if (source == '-') {
+                            source = vrsource
+                        }
+                        if (sourcedetails == '-' || sourcedetails == 'null') {
+                            sourcedetails = vrsourcedetails
+                        }
+
+                        if (utm_campaign == '') {
+                            utm_campaign = "-"
+                        }
+                        if (utm_adgroup == '') {
+                            utm_adgroup = "-"
+                        }
+                        if (device == '') {
+                            device = "-"
+                        }
+                        if (mobiled == '') {
+                            mobiled = "-"
+                        }
+
+                        //$(".imgloading").css({ "display": "inline-block", "position": "absolute", "margin-top": "-39px", "margin-left": "70%" });
+                        //setTimeout(function () {
+                        //    window.location.href = "thank-you.html";
+                        //}, 10);
+
+
+
+
+
+                        $.ajax({
+                            async: false,
+                            processing: true,
+                            type: "POST",
+                            contentType: "application/json; charset=utf-8",
+
+                            url: "https://msgapi.rohanbuilders.com/ZHOHOAPI.aspx/SendZhohRequestCommon",
+                            data: "{name: '" + $("#popup-name").val() + "',email: '" + $("#popup-email").val() + "', mobile: '" + $("#popup-phone").val() + "', site: '" + site + "', source: '" + source + "',sourcedetails: '" + sourcedetails + "',typeofunit: '" + varapartment + "',type: '" + utype + "',keyword:'" + keyword + "',matchtype:'" + matchtype + "',creative:'" + creative + "', placement:'" + placement + "', model:'" + model + "', campaigntype:'" + campaigntype + "', utm_source:'" + utm_source + "', utm_medium:'" + utm_medium + "', gclid:'" + gclid + "',utm_campaign:'" + utm_campaign + "',utm_adgroup:'" + utm_adgroup + "',device:'" + device + "',mobiled:'" + mobiled + "'}",
+                            dataType: "json",
+                            success: function (data) {
+
+                            }
+
+                        });
+                    }
+                    else {
+                        return false;
+                    }
+
+                }
+
+            });
+
+            function getParameterByName(name, url) {
+                if (!url) url = window.location.href;
+                name = name.replace(/[\[\]]/g, "\\$&");
+                var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                    results = regex.exec(url);
+                results = results == null ? "-" : results;
+                if (!results) return '-';
+                if (!results[2]) return '-';
+                return decodeURIComponent(results[2].replace(/\+/g, " "));
+            }
+
+            function validateEmail($email) {
+                var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+                return emailReg.test($email);
+            }
+
+            function validateName($name) {
+                var namereg = /^[a-zA-Z\s]+$/;
+                return namereg.test($name);
+            }
+
+
+            var count = 0;
+            function blink(elem, times, speed) {
+                count++;
+                if (times > 0 || times < 0) {
+                    if ($(elem).hasClass("blink"))
+                        $(elem).removeClass("blink");
+                    else
+                        $(elem).addClass("blink");
+                }
+
+                clearTimeout(function () {
+                    blink(elem, times, speed);
+                });
+
+                if (times > 0 || times < 0) {
+                    setTimeout(function () {
+                        blink(elem, times, speed);
+                    }, speed);
+                    times -= .5;
+                }
+                if (count == times) {
+                    $(elem).addClass("blink");
+                }
+            }
+
+        });
+    </script>
+    
+</body>
+</html>
